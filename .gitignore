@@ -1,0 +1,4 @@
+# Ignore Composer files
+/vendor/
+# Ignore composer.lock for libraries
+composer.lock
